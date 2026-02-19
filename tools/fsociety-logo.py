@@ -44,7 +44,7 @@ XX   MMMMMMMM                   '::dddddddd::'                   MMMMMMMM   XX
 XX   MMMMMMMM-                                                  -MMMMMMMM   XX
 XX   MMMMMMMMM                                                  MMMMMMMMM   XX
 XX   MMMMMMMMMy                                                yMMMMMMMMM   XX
-XX   MMMMMMMMMMy.       SOCIETY IS BORN TO BE F**KED         .yMMMMMMMMMM   XX
+XX   MMMMMMMMMMy.                                            .yMMMMMMMMMM   XX
 XX   MMMMMMMMMMMMy.                                        .yMMMMMMMMMMMM   XX
 XX   MMMMMMMMMMMMMMy.     GITHUB PAGE:                   .yMMMMMMMMMMMMMM   XX
 XX   MMMMMMMMMMMMMMMMs.   https://github.com/Charl-23  .sMMMMMMMMMMMMMMMM   XX

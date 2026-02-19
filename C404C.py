@@ -23,7 +23,8 @@ def print_bar():
 
 def print_banner_ascii():
     banner_ascii = r"""
-    █████████  █████ █████     █████    █████ █████    █████████                               
+   █████████  █████ █████     █████    █████ █████    █████████                               
+   █████████  █████ █████     █████    █████ █████    █████████                               
   ███░░░░░███░░███ ░░███    ███░░░███ ░░███ ░░███    ███░░░░░███                              
  ███     ░░░  ░███  ░███ █ ███   ░░███ ░███  ░███ █ ███     ░░░                               
 ░███          ░███████████░███    ░███ ░███████████░███                                       
@@ -91,7 +92,7 @@ TOOLS = {
     "10": {"name": "HackerPro", "path": os.path.join(BASE_DIR, "tools", "hackerpro"), "cmd": ["python2", "hackerpro.py"]},
     "11": {"name": "Admin-hack", "path": os.path.join(BASE_DIR, "tools", "AdminHack"), "cmd": ["bash", "AdminHack.sh"]},
     "12": {"name": "report-tiktok", "path": os.path.join(BASE_DIR, "tools", "report-tiktok"), "cmd": ["python3", "main.py"]},
-    "13": {"name": "Discord-spammer", "path": os.path.join(BASE_DIR, "tools"), "cmd": ["python3", "Discord_MassDM.py"]},
+    "13": {"name": "Darknet", "path": os.path.join(BASE_DIR, "tools", "darknet"), "cmd": ["python3", "darknet.py"]},
     "14": {"name": "Mail-finder", "path": os.path.join(BASE_DIR, "tools", "MailFinder"), "cmd": ["Python3", "MailFinder.py"]},
     "15": {"name": "Admin-Finder", "path": os.path.join(BASE_DIR, "tools"), "cmd": ["python3", "admin-panel-finder.py"]},
     "16": {"name": "publics-cameras", "path": os.path.join(BASE_DIR, "tools"), "cmd": ["python3", "cam-hackers.py"]},
