@@ -3,4 +3,8 @@ IP: 2a01:cb0d:8077:6146:0:4a:3813:5801
  User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36IP: 81.49.147.184
  User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0IP: 81.49.147.184
  User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0IP: 81.49.147.184
+ User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0IP: 35.237.4.214
+ User-Agent: Mozilla/5.0 (compatible; Discordbot/2.0; +https://discordapp.com)IP: 81.49.147.184
+ User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0IP: 81.49.147.184
+ User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0IP: 81.49.147.184
  User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0

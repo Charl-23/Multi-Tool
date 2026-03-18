@@ -62,14 +62,11 @@ sites = {
     6: {"name": " Pirate Bay  ", "url": "http://piratebayo3klnzokct3wt5yyxb2vpebbuyjl7m623iaxmqhsd52coid.onion/"},
     7: {"name": " Guns market ", "url": "http://gunsiqvaicyzyq7xqm2c3xshl6pjegtxjf3m3ldms2fo52lqvrmvbyyd.onion/"},
     8: {"name": " Onion Wiki  ", "url": "http://darkzpclh3dvhdbrmavcejij4ftljmkgdpcugseljxkhl2qptpr5yxid.onion/"},
-    9: {"name": "Not available", "url": "http://example9.onion"},
+    9: {"name": " BreachForms ", "url": "http://breachedmw4otc2lhx7nqe4wyxfhpvy32ooz26opvqkmmrbg73c7ooad.onion/"},
     10: {"name": "Not available", "url": "http://example10.onion"},
 }
 
 
-# ==============================
-# TOR DETECTION
-# ==============================
 
 def detect_tor():
     print(Fore.CYAN + center_block("[INFO] Detecting operating system..."))
@@ -88,9 +85,6 @@ def detect_tor():
     return None
 
 
-# ==============================
-# MAIN LOOP
-# ==============================
 
 while True:
     clear_screen()
@@ -140,7 +134,7 @@ while True:
         time.sleep(2)
         continue
 
-    # Launch Tor normally (NO URL)
+    
     print(Fore.CYAN + center_block("[INFO] Launching Tor Browser..."))
     time.sleep(2)
 
@@ -162,3 +156,4 @@ while True:
     print()
 
     input(Fore.WHITE + center_block("Press ENTER to return to menu..."))
+
